@@ -4,13 +4,8 @@
   "description": "É um projeto Meteor que simula o back-end do projeto do livro de *Cordova e PhoneGap*.",
   "main": "cozinhapp.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "scripts": {
     "start": "node server.js"
   },
   "author": "",
   "license": "ISC"
 }
-
-
